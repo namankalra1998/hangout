@@ -1,3 +1,3 @@
 # hangout
-npm install in warbler-server and client 
-database required mongodb 
+1. npm install in warbler-server and client 
+3.database required mongodb 
